@@ -4,9 +4,6 @@ Jonathan Bélisle - Session: 1 - Domaine multimédia
 ## Phrase choc
 -   N’avez-vous jamais rêvé d’apprendre ce dont vous avez besoin immédiatement ? Et si tout ce dont vous aviez besoin, un service, un savoir, un coup de main, se trouvait au même endroit.​
 
-
-
-
 ## Analyse des besoins
 
 ### Publique cible
@@ -24,7 +21,7 @@ Jonathan Bélisle - Session: 1 - Domaine multimédia
 ## Explication du concept​
 
 ### Éléments importants
--   Un site ou tu peux proposer ou demander un micro-service, conseil, correction, révisions et cela dans tous les domaines possibles que ça soit de la cuisine, des devoirs, du sport. Chaque session dure 15 minutes. Pas d’argents, uniquement échanges de temps. On peut payer un mode premium qui garantit des avantages et une possibilité limitée d'acheter des crédits.​
+-   Un site disponible comme application mobile (IOS et android) et en ligne sur le web où tu peux proposer ou demander un micro-service, conseil, correction, révisions et cela dans tous les domaines possibles que ça soit de la cuisine, des devoirs, du sport. Chaque session dure 15 minutes. Pas d’argents, uniquement échanges de temps. On peut payer un mode premium qui garantit des avantages et une possibilité limitée d'acheter des crédits.​
 
 ### Choix technologique
 -   Le projet nécessite une équipe de développement, de design et de gestion de projet, ainsi qu’une infrastructure technique sécurisée. Il nécessite aussi du matériel comme des ordinateurs, des logiciels de design et de développement, des infrastructures cloud pour les bases de données etc.​
