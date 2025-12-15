@@ -9,19 +9,25 @@ Jonathan Bélisle - Session: 1 - Domaine multimédia
 
 ## Analyse des besoins
 
+### Publique cible
+
 -   Le publique est large, tout le monde peut utiliser cette application. Mais je dirais les personnes ouvertes à l'apprentissage, a l'entraide et ceux qui encourage notre collectivité plutôt que l'intelligence artificiel.​
 
--   
-    
+### Qu’est-ce qui est important pour eux ?
+
+-   L'accessibilité, le fais que ce n'est pas payant. L'apprentissage et la sécurité, avoir un bon service et pouvoir apprendre tout en pouvant eux même aider en retour.
+
+### Le problème ou l’opportunité que votre projet vise à résoudre?
+
 -   Mon projet vise à résoudre l'accès couteux à des service et le gaspille de compétences. ​ ​
 
 ## Explication du concept​
 
 ### Éléments importants
--   Un site ou tu peux proposer ou demander un micro-service, conseil, correction, révisions et cela dans tous les domaines possibles que ça soit de la cuisine, des devoirs, du sport. Chaque session dure 15 minutes. Pas d’argents, uniquement échanges de temps.​
+-   Un site ou tu peux proposer ou demander un micro-service, conseil, correction, révisions et cela dans tous les domaines possibles que ça soit de la cuisine, des devoirs, du sport. Chaque session dure 15 minutes. Pas d’argents, uniquement échanges de temps. On peut payer un mode premium qui garantit des avantages et une possibilité limitée d'acheter des crédits.​
 
 ### Choix technologique
--   Application mobile (ios et android) mais aussi une plateforme web accessible depuis un navigateur. Protection de données et des information personnel. Donc "cross-plateform" et une technologie éthique et responsable.​
+-   Le projet nécessite une équipe de développement, de design et de gestion de projet, ainsi qu’une infrastructure technique sécurisée. Il nécessite aussi du matériel comme des ordinateurs, des logiciels de design et de développement, des infrastructures cloud pour les bases de données etc.​
 
 ### En quoi le concept répond au attentes du publique?
 -   Tout le monde à accès, tout le monde peut donner 15 minutes, c'est facile a utilisé et cela respect tout le monde ceux qui ne veulent rester anonyme. Chaque compétence a un sens et de la valeur. Un apprentissage plus accessible et plus juste. C'est un outil adapté aux rythmes de chaque personne.​
@@ -61,7 +67,6 @@ Jonathan Bélisle - Session: 1 - Domaine multimédia
     
 -   Le projet répond à un besoin réel, s’inscrit dans l’économie collaborative et possède un fort potentiel de croissance grâce aux réseau sociaux.​  
     En le soutenant, ils feraient parti d’une nouvelle façon d’apprendre et de partager.​
-
 
 
 
